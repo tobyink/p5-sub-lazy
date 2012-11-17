@@ -1,0 +1,11 @@
+# This file provides instructions for packaging.
+
+`Sub-Lazy`
+	perl_version_from m`Sub::Lazy`;
+	version_from      m`Sub::Lazy`;
+	readme_from       m`Sub::Lazy`;
+	test_requires     p`Test::More 0.61`;
+	requires          p`Attribute::Handlers`;
+	requires          p`Data::Thunk`;
+.
+

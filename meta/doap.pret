@@ -1,0 +1,19 @@
+# This file contains general metadata about the project.
+
+@prefix : <http://usefulinc.com/ns/doap#>.
+
+`Sub-Lazy`
+	:programming-language "Perl" ;
+	:shortdesc            "defer calculating subs until necessary";
+	:homepage             <https://metacpan.org/release/Sub-Lazy>;
+	:download-page        <https://metacpan.org/release/Sub-Lazy>;
+	:bug-database         <http://rt.cpan.org/Dist/Display.html?Queue=Sub-Lazy>;
+	:repository           [ a :HgRepository; :browse <https://bitbucket.org/tobyink/p5-sub-lazy> ];
+	:created              2012-11-17;
+	:license              <http://dev.perl.org/licenses/>;
+	:maintainer           cpan:TOBYINK;
+	:developer            cpan:TOBYINK.
+
+<http://dev.perl.org/licenses/>
+	dc:title  "the same terms as the perl 5 programming language system itself".
+
