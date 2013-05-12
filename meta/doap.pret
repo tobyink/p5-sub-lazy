@@ -8,7 +8,7 @@
 	:homepage             <https://metacpan.org/release/Sub-Lazy>;
 	:download-page        <https://metacpan.org/release/Sub-Lazy>;
 	:bug-database         <http://rt.cpan.org/Dist/Display.html?Queue=Sub-Lazy>;
-	:repository           [ a :HgRepository; :browse <https://bitbucket.org/tobyink/p5-sub-lazy> ];
+	:repository           [ a :GitRepository; :browse <https://github.com/tobyink/p5-sub-lazy> ];
 	:created              2012-11-17;
 	:license              <http://dev.perl.org/licenses/>;
 	:maintainer           cpan:TOBYINK;
