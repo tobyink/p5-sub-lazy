@@ -4,3 +4,10 @@
 	issued  2012-11-17;
 	label   "Initial release".
 
+
+`Sub-Lazy 0.002 cpan:TOBYINK`
+	issued    2014-09-10;
+	changeset [
+		item "Switch to Dist::Inkt."^^Packaging;
+	].
+

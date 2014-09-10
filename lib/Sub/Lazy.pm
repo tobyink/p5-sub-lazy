@@ -6,7 +6,7 @@ use warnings;
 
 BEGIN {
 	$Sub::Lazy::AUTHORITY = 'cpan:TOBYINK';
-	$Sub::Lazy::VERSION   = '0.001';
+	$Sub::Lazy::VERSION   = '0.002';
 }
 
 use constant ENABLED => !$ENV{PERL_SUB_LAZY_DISABLE};
