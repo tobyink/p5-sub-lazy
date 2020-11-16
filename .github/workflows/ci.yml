@@ -88,8 +88,8 @@ jobs:
           - { os: 'windows', perl: '5.10' }
           - { os: 'windows', perl: '5.12' }
         include:
-          - os: ubuntu
-            perl: '5.30'
+          - os: 'ubuntu'
+            perl: '5.22'
             threaded: false
             coverage: true
             extra_dependencies: true
